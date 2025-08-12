@@ -1,6 +1,6 @@
 # AI-Agent-Stock-Prediction
 
-This code is from Rivier University COMP-699 Professional Seminar student projects.
+This code is from University of Massachusetts Professional Seminar student projects.
 
 They create a classical trading system (e.g., 50/200 SMA cross) and then enhance it with multiple AI agents.
 
